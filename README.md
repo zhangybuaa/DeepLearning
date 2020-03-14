@@ -1,2 +1,2 @@
-# DeepLearning
-深度学习的笔记
+# ReinforcementLearning
+强化学习的笔记
